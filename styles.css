@@ -1,0 +1,6 @@
+.change{
+    border-radius: 20%;
+    background:linear-gradient(to right,rgb(250, 98, 98),rgb(84, 255, 84),rgb(0, 184, 187) );
+    padding: 20px;
+    margin-top: 20px;
+}
